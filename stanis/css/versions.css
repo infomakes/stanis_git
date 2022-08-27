@@ -737,6 +737,7 @@ body.seo_version .first-section h2 {
     display: block;
     font-size: 56px;
     font-weight: bold;
+	background-color:black;
 }
 
 body.seo_version .magnifier {
